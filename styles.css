@@ -82,9 +82,12 @@ input {
 }
 
 input:focus {
+    outline: none;
     border:none;
     border-bottom: 1px solid red;
 }
+
+
 
 .odin-button {
     background-color: #596D48;
